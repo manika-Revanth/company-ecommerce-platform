@@ -20,3 +20,25 @@ company-ecommerce-platform/
 │
 └── logs/ >> contains log files
 
+Branching Statergy:
+
+main
+  │
+  ├── production
+  │
+  └── release branches
+
+develop
+  │
+  ├── feature branches
+  ├── bugfix branches
+  └── integration
+
+
+Rules:
+1.main represents production.
+2.develop represents ongoing development.
+3.Developers must never directly develop features on main.
+4.Features must be developed through feature branches.
+5.Production fixes must use a hotfix workflow.
+
