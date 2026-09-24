@@ -44,3 +44,4 @@ Rules:
 4.Features must be developed through feature branches.
 5.Production fixes must use a hotfix workflow.
 
+Updated from company-ecommerce-platform-2.
