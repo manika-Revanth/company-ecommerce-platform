@@ -1,3 +1,5 @@
+This the Version:2.0
+
 WELCOME TO COMPANY-E-COMMERCE-PLATFORM APPLICATION!
 
 this app contains files of 
