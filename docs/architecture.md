@@ -15,3 +15,19 @@ company-ecommerce-platform/
 │
 └── logs/
 
+
+the main workflow of git is 
+
+main
+  │
+  ├── production
+  │
+  └── release branches
+develop
+  │
+  ├── feature branches
+  ├── bugfix branches
+  └── integration
+
+
+***in part 6 we make changes and pushed it to stash so we can retrive it later***
